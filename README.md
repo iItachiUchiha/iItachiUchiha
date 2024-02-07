@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @iItachiUchiha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<ul>
+<li>👋 Hi, I’m @iItachiUchiha (Yogesh)</li>
+<li> 👀 I’m interested in Open-Source, Web and DevOps</li>
+<li> 🌱 I’m currently learning DevOps</li>
+<li> 💞️ I’m looking to collaborate on Open-Source </li>
+<li> 📫 How to reach me: ................</li>
+<li> ⚡ Fun fact: I am still learning </li>
 
-<!---
-iItachiUchiha/iItachiUchiha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</ul> 
+<img src = 'https://github.com/iItachiUchiha/iItachiUchiha/assets/132689237/ec89d9be-ef53-429b-af22-c6a3057de4c0' />
+
+
