@@ -1,5 +1,5 @@
 <ul>
-<li>👋 Hi, I’m @iItachiUchiha (Yogesh)</li>
+<li>👋 Hi, I’m @iItachiUchiha (Bhavesh)</li>
 <li> 👀 I’m interested in Open-Source, Web and DevOps</li>
 <li> 🌱 I’m currently learning DevOps</li>
 <li> 💞️ I’m looking to collaborate on Open-Source </li>
